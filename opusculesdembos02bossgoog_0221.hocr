@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opusculesdembos02bossgoog_0221.png"; bbox 0 0 2180 3848; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 124 1303 642 1396">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 124 1303 642 1396">
+     <span class='ocr_line' id='line_1_1' title="bbox 124 1303 642 1396; baseline -0.031 3"><span class='ocrx_word' id='word_1_1' title='bbox 124 1335 131 1348; x_wconf 67' lang='lat'>²</span> <span class='ocrx_word' id='word_1_2' title='bbox 242 1303 642 1396; x_wconf 75' lang='lat' dir='ltr'>PREMIER!</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 120 1494 855 1698">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 120 1494 855 1698">
+     <span class='ocr_line' id='line_1_2' title="bbox 120 1494 855 1698; baseline -0.027 -49"><span class='ocrx_word' id='word_1_3' title='bbox 120 1494 779 1649; x_wconf 81' lang='lat' dir='ltr'><strong>INSTRUCTION</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 846 1677 855 1698; x_wconf 21' lang='lat'>¹</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 206 1725 696 2012">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 206 1725 696 2012">
+     <span class='ocr_line' id='line_1_3' title="bbox 206 1725 696 1832; baseline -0.033 0"><span class='ocrx_word' id='word_1_5' title='bbox 206 1725 696 1832; x_wconf 81' lang='lat' dir='ltr'><strong>PASTOR-ALE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 399 1945 502 2012; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 399 1945 502 2012; x_wconf 67' lang='lat' dir='ltr'>sun</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 89 2105 824 2244">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 89 2105 824 2244">
+     <span class='ocr_line' id='line_1_5' title="bbox 89 2105 824 2244; baseline -0.003 -33"><span class='ocrx_word' id='word_1_7' title='bbox 89 2120 471 2211; x_wconf 73' lang='lat' dir='ltr'><strong><em>LEsPROMESsES</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 487 2110 566 2226; x_wconf 81' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_9' title='bbox 579 2105 824 2244; x_wconf 59' lang='lat' dir='ltr'>mom,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1094 3848">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1094 3848">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1094 3848; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1094 3848; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
